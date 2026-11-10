@@ -1,0 +1,15 @@
+{
+  "version": 1,
+  "packs": [
+    {
+      "id": "kuromoji-ipadic",
+      "name": "Japanese (IPADIC)",
+      "description": "Japanese tokenizer dictionary for lyric romanization",
+      "version": 1,
+      "downloadSizeBytes": 13212909,
+      "installedSizeBytes": 33426790,
+      "sha256": "df4ef64c1a2b604614f9033fecc93b7dffd71ab5fa1e0851c41be68773519818",
+      "url": "https://raw.githubusercontent.com/abdrhmniqbal/startune-dictionaries/main/kuromoji-ipadic.zip"
+    }
+  ]
+}
